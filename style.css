@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+    background-color: darkred;
+}
+
+.hero {
+    padding: 50px;
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.features {
+    padding: 30px;
+}
